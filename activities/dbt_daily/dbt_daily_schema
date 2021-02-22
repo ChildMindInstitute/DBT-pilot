@@ -88,31 +88,6 @@
                 "isVis": true
             },
             {
-                "variableName": "events_and_goals_instructions",
-                "isAbout": "events_and_goals_instructions",
-                "isVis": true
-            },
-            {
-                "variableName": "important_events",
-                "isAbout": "important_events",
-                "isVis": true
-            },
-            {
-                "variableName": "daily_goal",
-                "isAbout": "daily_goal",
-                "isVis": true
-            },
-            {
-                "variableName": "goal_achieve",
-                "isAbout": "goal_achieve",
-                "isVis": true
-            },
-            {
-                "variableName": "goal_obstacles",
-                "isAbout": "goal_obstacles",
-                "isVis": "goal_achieve == 2 || goal_achieve == 0"
-            },
-            {
                 "variableName": "thank_you",
                 "isAbout": "thank_you",
                 "isVis": true
@@ -134,11 +109,6 @@
             "interpersonal_skills",
             "emotion_regulation",
             "distress_tolerance",
-            "events_and_goals_instructions",
-            "important_events",
-            "daily_goal",
-            "goal_achieve",
-            "goal_obstacles",
             "thank_you"
         ],
         "shuffle": false

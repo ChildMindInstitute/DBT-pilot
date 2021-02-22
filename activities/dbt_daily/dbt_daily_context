@@ -62,26 +62,6 @@
             "@id": "dbt_daily:distress_tolerance",
             "@type": "@id"
         },
-        "events_and_goals_instructions": {
-            "@id": "dbt_daily:events_and_goals_instructions",
-            "@type": "@id"
-        },
-        "important_events": {
-            "@id": "dbt_daily:important_events",
-            "@type": "@id"
-        },
-        "daily_goal": {
-            "@id": "dbt_daily:daily_goal",
-            "@type": "@id"
-        },
-        "goal_achieve": {
-            "@id": "dbt_daily:goal_achieve",
-            "@type": "@id"
-        },
-        "goal_obstacles": {
-            "@id": "dbt_daily:goal_obstacles",
-            "@type": "@id"
-        },
         "thank_you": {
             "@id": "dbt_daily:thank_you",
             "@type": "@id"
