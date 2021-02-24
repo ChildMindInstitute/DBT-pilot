@@ -4,7 +4,7 @@
 const protocolName = "DBT_diary_card_pilot"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "DBT Daily Diary Card"
+const protocolDisplayName = "DBT Daily Diary Card Pilot (Updated)"
 
 //2. create your raw github repo URL
 const userName = 'ChildMindInstitute'
